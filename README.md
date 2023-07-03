@@ -4,14 +4,12 @@
 </div>
 
 <div style="border-radius: 10px;">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </div>
-
+<br>
 <p align="center" >
   <img src="https://github.com/Jamel-miraoui/Jamel-miraoui/blob/main/resource/giphy.gif" height="230" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -101,7 +99,9 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   </kbd>
 </p>
+<br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 
 <div align="center">
@@ -110,10 +110,26 @@
        alt="snake" /></a>
 </div>
 
+<br>  <br> 
 
-![Jamel-miraoui's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamel-miraoui&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-![Jamel-miraoui's Stats](https://github-readme-stats.vercel.app/api?username=Jamel-miraoui&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![Jamel-miraoui's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jamel-miraoui&theme=tokyonight&hide_border=false)
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamel-miraoui&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" style="border: none;" /> <br> <br>
+  <table style="border: none; border-collapse: collapse;" align="center">
+    <tr>
+      <td>
+        <img title="" alt="[Jamel-miraoui's Stats" src="https://github-readme-stats.vercel.app/api?username=Jamel-miraoui&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jamel-miraoui&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br> 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 
 
 [![Readme Quotes ](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes  )
@@ -123,29 +139,24 @@
                   
   <br>
 
-  
-  
-  
+    
+
+    
+
+
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
-  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DHANOLA&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
-
-
-  
 </td>
-
 <td width="50%" align="center">
-
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DHANOLA&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
 </table>
-
 <br>
 
 
@@ -186,6 +197,38 @@
   ![Snake animation](https://github.com/Jamel-miraoui/Jamel-miraoui/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+
+<table border="0" align="center">
+<tr border="0">
+  <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamel-miraoui&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
+  </td>
+  <td width="50%" align="center">
+    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=Jamel-miraoui&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+  </td>
+</tr>
+  <tr border="0">
+  <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Jamel-miraoui&theme=tokyonight&hide_border=false" />
+  </td>
+  <td width="50%" align="center">
+    <p align='center'>
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
+<p align='center'>
+<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
+</p>
+  </td>
+</tr>
+</table>
+<br>
+
+
+
+
   
 <!--
 **Jamel-miraoui/Jamel-miraoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

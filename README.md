@@ -1,11 +1,17 @@
-<div align="center" style="border: px solid #000000;>
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Jamel</h1>
+<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=IT+Student;Android+Developer;Compititive+Programmer;Web+Designer;web+developer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
+<div style="border-radius: 10px;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 <p align="center">
-  <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" height="230"/>
+  <img src="https://github.com/Jamel-miraoui/Jamel-miraoui/blob/main/resource/giphy.gif" height="230"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -96,10 +102,7 @@
   </kbd>
 </p>
 
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Jamel</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
-</div>
+
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">

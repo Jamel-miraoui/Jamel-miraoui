@@ -1,5 +1,5 @@
 <div align="center">
-<h3 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Jamel</h3>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Jamel</h1>
 <h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
@@ -110,7 +110,7 @@
        alt="snake" /></a>
 </div>
 
-<br>  <br> 
+<br> 
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamel-miraoui&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" style="border: none;" /> <br> <br>

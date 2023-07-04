@@ -112,7 +112,7 @@
 <br> 
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamel-miraoui&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" style="border: none;" /> <br> <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamel-miraoui&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"" /> <br> <br>
   <table style="border: none; border-collapse: collapse;" align="center">
     <tr>
       <td>

@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Jamel</h1>
 <h4 align="center">a freelance developer and also an information technology students at Higher Institute of Technological Studies of Sousse </h4>
 </div> 
-
+ 
 <div style="border-radius: 10px;">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </div>

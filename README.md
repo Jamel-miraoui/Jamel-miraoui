@@ -1,8 +1,9 @@
-<p align="center">Passionate Programming Student
+<p align="center">
+Passionate Programming Student
 
-🚀 Energetic student deeply passionate about programming and its limitless potential. Enthusiastically honing skills in [Languages/Technologies] to craft creative and efficient solutions. Excited to connect with fellow programmers and explore the ever-evolving tech landscape.
+🚀 Energetic student deeply passionate about programming and its limitless potential. Enthusiastically honing skills in Web development and application to craft creative and efficient solutions. Excited to connect with fellow programmers and explore the ever-evolving tech landscape.
 
-#ProgrammingStudent #PassionateCoder #InnovationJourney</p>
+#ProgrammingStudent #PassionateCoder #InnovationJourney
 
 ###
 
@@ -108,7 +109,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" href="khawla.com" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />

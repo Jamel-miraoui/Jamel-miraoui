@@ -1,9 +1,13 @@
 <p align="center">
 Passionate Programming Student
 
-🚀 Energetic student deeply passionate about programming and its limitless potential. Enthusiastically honing skills in Web development and application to craft creative and efficient solutions. Excited to connect with fellow programmers and explore the ever-evolving tech landscape.
+Passionate about creating digital wonders through code! As an avid learner in the world of programming, I find myself diving into the intricacies of HTML, CSS, and JavaScript to craft seamless and captivating web experiences. My journey extends to the back end, where I wield the power of Java, MySQL, and Spring Boot to bring data-driven applications to life.
 
-#ProgrammingStudent #PassionateCoder #InnovationJourney
+Intrigued by the endless possibilities tech offers, I've also delved into PHP, Symfony, and the art of building robust APIs. With the dynamic Angular framework as my companion, I thrive on constructing interactive and responsive front-end interfaces.
+
+Let's join forces and explore the boundless horizons of technology together! Connect with me to share insights, exchange ideas, and collaborate on the exciting innovations that shape our digital world.
+
+#PassionateCoder #WebWizard #FullStackDreamer
 
 ###
 

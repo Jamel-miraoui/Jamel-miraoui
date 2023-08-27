@@ -7,6 +7,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 </div>
 <br>
+
 <p align="center" >
   <img src="https://github.com/Jamel-miraoui/Jamel-miraoui/blob/main/resource/giphy.gif" height="230" />
 </p>
@@ -105,25 +106,9 @@
 
 
 <div align="center">
-  <img  src="https://github.com/Jamel-miraoui/Jamel-miraoui/blob/output/github-contribution-grid-snake.svg"
-       alt="snake" />
+  <img  src="https://github.com/Jamel-miraoui/Jamel-miraoui/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
-<br> 
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamel-miraoui&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"" /> <br> <br>
-  <table style="border: none; border-collapse: collapse;" align="center">
-    <tr>
-      <td>
-        <img title="" alt="[Jamel-miraoui's Stats" src="https://github-readme-stats.vercel.app/api?username=Jamel-miraoui&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jamel-miraoui&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 <br>

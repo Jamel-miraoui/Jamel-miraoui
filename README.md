@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
 Passionate Programming Student
 
 Passionate about creating digital wonders through code! As an avid learner in the world of programming, I find myself diving into the intricacies of HTML, CSS, and JavaScript to craft seamless and captivating web experiences. My journey extends to the back end, where I wield the power of Java, MySQL, and Spring Boot to bring data-driven applications to life.

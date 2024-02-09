@@ -6,7 +6,7 @@ Passionate about creating digital wonders through code! As an avid learner in th
 Intrigued by the endless possibilities tech offers, I've also delved into PHP, Symfony, and the art of building robust APIs. With the dynamic Angular framework as my companion, I thrive on constructing interactive and responsive front-end interfaces.
 
 Let's join forces and explore the boundless horizons of technology together! Connect with me to share insights, exchange ideas, and collaborate on the exciting innovations that shape our digital world.
-
+ 
 #PassionateCoder #WebWizard #FullStackDreamer
 
 ###
